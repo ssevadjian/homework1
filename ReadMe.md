@@ -19,3 +19,15 @@ Refactored the code of an existing webpage so that it follows accessibility stan
 6. In the stlye.css sheet, combined classes used in section elements (i.e., "search-engine-optimization", "online-reputation-management", etc.) to a single class and renamed it to "search-reputation-social" & updated html file to account for the name changes
 7. Added title to div element with background image - this is to serve as the alt text for the image
 8. Removed </img> from self-closing image element under Cost Management
+```
+
+## Screenshot of Final Product
+
+```
+![Final Product](./assets/images/Final_Product.png)
+```
+
+## Link to github page
+
+```
+
