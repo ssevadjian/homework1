@@ -24,11 +24,17 @@ Refactored the code of an existing webpage so that it follows accessibility stan
 ## Screenshot of Final Product
 
 ```
-![Final Product](./assets/images/Final_Product.png)
+![Screenshot](./assets/images/Final_Product.png)
 ```
 
-## Link to github page
+## Link to github live page
 
 ```
 https://ssevadjian.github.io/homework1/
+```
+
+## Link to homework in github
+
+```
+https://github.com/ssevadjian/homework1
 ```
