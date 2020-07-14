@@ -24,7 +24,7 @@ Refactored the code of an existing webpage so that it follows accessibility stan
 ## Screenshot of Final Product
 
 ```
-![Screenshot](./assets/images/Final_Product.png)
+![Final Product](./assets/images/Final_Product.png)
 ```
 
 ## Link to github live page
